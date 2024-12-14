@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Biswanath Nayak</h1>
-<h3 align="center">A passionate full Stack developer from India.</h3>
+<h1 align="center">👩‍💻 About Me </h1>
+<h2 align="center">Hi 👋, I'm Biswanath Nayak , from Odisha, India.</h2>
+<h3 align="center">- 🔭 I'm a Fresher , looking to kickstart my career in the field of full Stack developer Role.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswaak&label=Profile%20views&color=0e75b6&style=flat" alt="biswaak" /> </p>
 
