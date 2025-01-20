@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **biswaak150@gmail.com**
 
-- 📄 Know about my experiences [https://apricot-bianka-1.tiiny.site/](https://apricot-bianka-1.tiiny.site/)
+- 📄 Know about my experiences [https://biswanathresumes.tiiny.site](https://biswanathresumes.tiiny.site)
 
 - ⚡ Fun fact **I am Funny**
 
